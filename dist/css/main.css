@@ -1,0 +1,12 @@
+.header-nav a.logo.mr-3 {
+    width: 197px;
+}
+.parnter-images img {
+    width: 100%;
+    max-height: inherit !important;
+    filter:inherit !important;
+}
+.row.grid-gap.benefit .h4 {
+    color: #0ac8c6;
+    font-size: 24px;
+}
